@@ -17,13 +17,6 @@
 ![DRF](https://img.shields.io/badge/DRF-3.16-red)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1)
 
-**Особенности:**
-- REST API на Django REST Framework
-- Статьи, комментарии, теги, изображения
-- JWT аутентификация
-- OpenAPI документация
-- Docker готовность
-
 **🌐 Демо:** [api.skillcrafts.ru](https://api.skillcrafts.ru/api/docs/)
 
 #### Frontend: [React Blog UI](https://github.com/martymacv/react_blog)
@@ -38,8 +31,6 @@
 - Современный React + JavaScript + Vite
 - Адаптивный UI с Tailwind CSS и Module.css
 - Полная интеграция с DRF API
-- Управление статьями в реальном времени
-- Темная/светлая тема (пока только тёмная)
 
 **🌐 Демо:** [https://skillcrafts.ru/](https://skillcrafts.ru/)
 
