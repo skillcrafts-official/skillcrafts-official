@@ -7,8 +7,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
-### 🔭 I’m currently working on Блог-платформа (Full Stack)  
-**Личный продакшн-проект с раздельными backend и frontend**
+### 🔭 Личный продакшн-проект с раздельными backend и frontend
 
 #### Backend: [DRF Blog API](https://github.com/martymacv/drf_blog_api)
 ![Stars](https://img.shields.io/github/stars/martymacv/react_blog)
