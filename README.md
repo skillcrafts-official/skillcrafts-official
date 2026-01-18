@@ -10,7 +10,7 @@
 ### 🔭 Личный продакшн-проект с раздельными backend и frontend
 
 #### Backend: [DRF Blog API](https://github.com/martymacv/drf_blog_api)
-![Stars](https://img.shields.io/github/stars/martymacv/react_blog)
+![Stars](https://img.shields.io/github/stars/martymacv/drf_blog_api)
 ![Last commit](https://img.shields.io/github/last-commit/martymacv/drf_blog_api)
 ![Django](https://img.shields.io/badge/Django-5.2-green)
 ![DRF](https://img.shields.io/badge/DRF-3.16-red)
@@ -19,7 +19,7 @@
 **🌐 Демо:** [api.skillcrafts.ru](https://api.skillcrafts.ru/api/docs/)
 
 #### Frontend: [React Blog UI](https://github.com/martymacv/react_blog)
-![Stars](https://img.shields.io/github/stars/martymacv/drf_blog_api)
+![Stars](https://img.shields.io/github/stars/martymacv/react_blog)
 ![Last commit](https://img.shields.io/github/last-commit/martymacv/react_blog)
 ![React](https://img.shields.io/badge/React-19.1-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
