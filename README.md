@@ -9,7 +9,7 @@
 
 ### 🔭 Личный продакшн-проект с раздельными backend и frontend
 
-#### Infrastructure as Code: [skillcrafts-infra](https://github.com/skillcrafts-official/skillcrafts-infra)
+#### Infrastructure: [skillcrafts-infra](https://github.com/skillcrafts-official/skillcrafts-infra)
 
 #### Backend: [DRF Blog API](https://github.com/skillcrafts-official/drf_blog_api)
 ![Stars](https://img.shields.io/github/stars/skillcrafts-official/drf_blog_api)
